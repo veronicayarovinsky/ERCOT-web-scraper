@@ -9,7 +9,6 @@ import re
 import glob
 
 LMP_DATA_LINK = "http://mis.ercot.com/misapp/GetReports.do?reportTypeId=12300&reportTitle=LMPs%20by%20Resource%20Nodes,%20Load%20Zones%20and%20Trading%20Hubs&showHTMLView=&mimicKey"
-# SAVE_PATH = "/Users/veronicayarovinsky/Desktop/ERCOT-web-scraper/ERCOT-data"
 SAVE_PATH = os.getcwd() + "/ERCOT-data"
 
 def main():

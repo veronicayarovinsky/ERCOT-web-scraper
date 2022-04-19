@@ -1,6 +1,6 @@
 # ERCOT-web-scraper
 
-The ERCOT-web-scraper is a program that downloads LMPs by Resource Nodes, Load Zones and Trading Hubs from [the ERCOT website](https://www.ercot.com/mktinfo/prices).
+The ERCOT-web-scraper is a program that downloads LMPs by Resource Nodes, Load Zones and Trading Hubs from the [ERCOT website](https://www.ercot.com/mktinfo/prices).
 * The data is stored as csv files named exactly as on the ERCOT website (without the .zip)
 * If files downloaded by this program exist in the given pathname, the program only downloads the new data files (no repeat files).
 
